@@ -5,7 +5,7 @@ import HomePage from '@/app/(delete-this-and-modify-page.tsx)/HomePage';
  *
  * @returns {JSX.Element} The rendered HomePage component.
  */
-const Page = () => {
+const Page = (): JSX.Element => {
     return <HomePage />;
 };
 
